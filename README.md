@@ -1,6 +1,6 @@
-# weater station
+# weather station
 
-![weater station_logo](https://github.com/Bandit-17/weaterstation/blob/main/image/vue%203d.png)
+![weather station_logo](https://github.com/Bandit-17/weaterstation/blob/main/image/vue%203d.png)
 
 Le PCB utilise uniquement des composants enfichables afin de faciliter la configuration/maintenance.
 
