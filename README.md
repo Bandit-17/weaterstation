@@ -5,7 +5,7 @@
 Le PCB utilise uniquement des composants enfichables afin de faciliter la configuration/maintenance.
 
 > Le MCU utilisé est un [ESP32](https://s.click.aliexpress.com/e/_DCEPtOd) fonctionnant sous <sub>[![ESPHome](https://img.shields.io/badge/ESPHome-_-black?logo=esphome&style=social)](https://esphome.io)</sub> permettant la communication via WiFi vers <sub>[![Home_Assistant](https://img.shields.io/badge/Home_Assistant-_-black?logo=homeassistant&style=social)](http://homeassistant.io)</sub> <sup>(HA)</sup> de manière native.<br/>
-> <sup>-> _But </sup>[![MQTT](https://img.shields.io/badge/MQTT-_-black?logo=mqtt&style=social)](https://esphome.io/components/mqtt)<sup> can be added easily._</sup>
+> <sup>->  Mais </sup>[![MQTT](https://img.shields.io/badge/MQTT-_-black?logo=mqtt&style=social)](https://esphome.io/components/mqtt)<sup> peut être ajouté facilement.</sup>
 
 > __Les principales caractéristiques sont :__
 > - [x] Utilisation d'un module RS485 ( pour les capteur de vent/température/puissance du flux solaire.
